@@ -41,3 +41,4 @@ C:\Users\zizah\source\repos\CountyImmunisationSystem\CountyImmunisationSystem\ob
 C:\Users\zizah\source\repos\CountyImmunisationSystem\CountyImmunisationSystem\obj\Debug\net8.0-windows\CountyImmunisationSystem.ReportImmunisationForm.resources
 C:\Users\zizah\source\repos\CountyImmunisationSystem\CountyImmunisationSystem\obj\Debug\net8.0-windows\CountyImmunisationSystem.ReportVaccineForm.resources
 C:\Users\zizah\source\repos\CountyImmunisationSystem\CountyImmunisationSystem\obj\Debug\net8.0-windows\CountyImmunisationSystem.ReportWardForm.resources
+C:\Users\zizah\source\repos\CountyImmunisationSystem\CountyImmunisationSystem\obj\Debug\net8.0-windows\CountyImmunisationSystem.sourcelink.json
