@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("CountyImmunisationSystem"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a789f78767e1445af5b6aa2ed5d0e873345c6e15"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1bb54d59003a459c1612d1019abff868136d5ae"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("CountyImmunisationSystem"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("CountyImmunisationSystem"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
